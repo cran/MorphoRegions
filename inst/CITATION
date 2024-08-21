@@ -1,0 +1,12 @@
+citHeader("To cite 'MorphoRegions' in publications, please include both the package and paper citations:")
+
+citation(auto = meta)
+
+bibentry(bibtype = "Article",
+        title = "Repatterning of mammalian backbone regionalization in cetaceans",
+        author = c(person("Amandine", "Gillet"),
+                   person("Katrina", "Jones"),
+                   person("Stephanie", "Pierce")),
+        year = 2024,
+        journal = "bioRxiv",
+        doi = "10.1101/2024.03.15.585285")
